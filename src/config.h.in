@@ -1,0 +1,9 @@
+#ifndef POC_TOYOTA_CONFIG_H
+#define POC_TOYOTA_CONFIG_H
+
+// Preprocessed by CMake
+
+#cmakedefine PYTHON_SCRIPTS_PATH "@PYTHON_SCRIPTS_PATH@"
+
+#endif // POC_TOYOTA_CONFIG_H
+
